@@ -29,6 +29,4 @@ class URI {
         else {
             Console.WriteLine("Origem");
         }
-
-
     }

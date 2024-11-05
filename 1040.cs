@@ -11,6 +11,7 @@ namespace beecrowd{
             double N4 = double.Parse(media[3]);
 
             double meedia = ((N1 * 2) + (N2 * 3) + (N3 * 4) + (N4 * 1)) / 10;
+            
 
             Console.WriteLine($"Media: {Math.Round(meedia, 1).ToString("0.0")}");
 

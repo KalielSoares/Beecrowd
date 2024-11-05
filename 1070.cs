@@ -14,6 +14,7 @@ class URI {
                 A++;
             }
 
+
             while (count < 6) {
                 Console.WriteLine(A);
                 A += 2;
